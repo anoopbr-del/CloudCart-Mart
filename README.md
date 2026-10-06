@@ -106,16 +106,14 @@ Monitoring and observability
 
 👨‍💻 Author
 
-Amruth Swamy C P
-Cloud & DevOps Engineer
+Anoop BR
 
-📧 Email: amruthswamy11@gmail.com
+📧 Email: anoopbr2002@@gmail.com
 
 🔗 LinkedIn:
-https://www.linkedin.com/in/amruthswamycp079/
+https://www.linkedin.com/in/anoop-b-r-44289a301/
 
 💻 GitHub:
-https://github.com/amruthswamywork
+https://github.com/anoopbr-del
 
-🌐 Portfolio:
-https://amruthswamywork.github.io/Amrruthswamy_Cloud-DevOps-SRE_Engineer_portfolio-/#/
+
